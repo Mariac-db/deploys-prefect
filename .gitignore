@@ -1,0 +1,8 @@
+data
+.vscode
+new_data
+mail_credentials.py
+mlruns
+models
+mlflow.db
+__pycache__
